@@ -1,0 +1,24 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "nombre": "Julio",
+      "genero": "Tapia"
+    },
+    {
+      "id": 2,
+      "nombre": "ianco",
+      "genero": "atrasado "
+    },
+    {
+      "nombre": "TEST",
+      "genero": "TEST",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "TEST33",
+      "genero": "TEST33"
+    }
+  ]
+}
